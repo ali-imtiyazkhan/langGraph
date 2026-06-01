@@ -1,4 +1,5 @@
 langchain
 langgraph
-dotenv
-open_ai
+python-dotenv
+openai
+google-generativeai
